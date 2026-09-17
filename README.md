@@ -1,3 +1,13 @@
+Student Details
+
+Name: Krishnapal Rajput
+
+Registration Number: 25MIM10084
+
+Course: Fundamentals in AI and ML
+
+Course Code: CSA2001
+
 Song Recommendation System
 
 Overview
