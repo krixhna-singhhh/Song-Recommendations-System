@@ -1,0 +1,31 @@
+song_id,title,artist,genre,danceability,energy,valence,tempo,acousticness,popularity
+1,Neon Nights,Aster Lane,Pop,0.82,0.76,0.79,124,0.08,88
+2,Electric Heart,Nova Bloom,Pop,0.80,0.72,0.75,122,0.10,84
+3,City Lights,Mira Ray,Pop,0.77,0.70,0.72,120,0.12,81
+4,Golden Hour,Aria Skye,Pop,0.74,0.64,0.84,116,0.18,90
+5,Midnight Drive,The Signals,Pop,0.79,0.81,0.68,128,0.07,86
+6,Paper Planes,Echo June,Pop,0.71,0.60,0.70,114,0.20,74
+7,Steel Horizon,Crimson Road,Rock,0.49,0.91,0.55,142,0.05,82
+8,Thunder Run,Atlas Riot,Rock,0.46,0.94,0.50,148,0.03,78
+9,Broken Amp,Static Echo,Rock,0.52,0.88,0.46,138,0.06,75
+10,Fireline,Northbound,Rock,0.50,0.86,0.58,136,0.08,80
+11,Wild Engine,Stone Harbor,Rock,0.44,0.92,0.51,145,0.04,77
+12,Last Encore,Velvet Noise,Rock,0.55,0.83,0.60,132,0.09,73
+13,Quiet Rain,Anya Vale,Acoustic,0.45,0.34,0.48,88,0.82,79
+14,Wooden Rooms,Harbor Folk,Acoustic,0.48,0.31,0.52,92,0.86,71
+15,Sunday Window,Leah Moss,Acoustic,0.50,0.28,0.57,90,0.88,76
+16,Old Photographs,June Cedar,Acoustic,0.42,0.30,0.43,84,0.91,69
+17,Softly Home,Iris Field,Acoustic,0.47,0.36,0.55,94,0.80,72
+18,Autumn Letter,Willow North,Acoustic,0.44,0.33,0.49,86,0.89,70
+19,Pixel Rush,Circuit Sun,Electronic,0.88,0.90,0.73,132,0.03,85
+20,Voltage Dreams,Mono Sky,Electronic,0.86,0.87,0.69,130,0.04,83
+21,Digital Tide,Prism Code,Electronic,0.84,0.85,0.66,128,0.05,79
+22,Afterglow.exe,Future Frame,Electronic,0.90,0.92,0.76,134,0.02,87
+23,Synthetic Blue,Orbit Kids,Electronic,0.81,0.82,0.62,126,0.06,78
+24,Laser Bloom,Byte Garden,Electronic,0.87,0.89,0.71,131,0.03,82
+25,Velvet Steps,Juno Miles,R&B,0.76,0.58,0.65,102,0.22,81
+26,Slow Motion,Kai Rivers,R&B,0.73,0.55,0.61,98,0.28,84
+27,After Midnight,Sola Gray,R&B,0.78,0.62,0.68,104,0.19,86
+28,Blue Silk,Noah June,R&B,0.70,0.50,0.56,96,0.33,75
+29,Stay Close,Lina Hart,R&B,0.75,0.57,0.64,100,0.25,80
+30,Warm Static,Rey Moon,R&B,0.72,0.53,0.59,99,0.30,77
